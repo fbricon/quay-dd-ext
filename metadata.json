@@ -1,0 +1,10 @@
+{
+  "icon": "quay.svg",
+  "ui": {
+    "dashboard-tab": {
+      "title": "Explore Quay.io",
+      "src": "index.html",
+      "root": "ui"
+    }
+  }
+}
